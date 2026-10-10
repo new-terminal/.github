@@ -3,5 +3,4 @@
 Organization-wide files for [New Terminal](https://github.com/new-terminal).
 
 - [profile/README.md](profile/README.md): the organization profile shown at github.com/new-terminal
-
-Brand assets live in [terminal/brand](https://github.com/new-terminal/terminal/tree/main/brand).
+- [brand/](brand/): the assets the profile uses, copied from the New Terminal brand kit in the terminal.new repo. Edit them there and copy them here; don't edit these copies.
