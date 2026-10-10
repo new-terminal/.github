@@ -1,4 +1,4 @@
-![New Terminal: Every project. Every agent. One terminal.](https://raw.githubusercontent.com/new-terminal/terminal/main/brand/social/new-terminal-banner-github-2560x800.png)
+![New Terminal: Every project. Every agent. One terminal.](../brand/og-image-1200x630.png)
 
 One prompt. Agents do the work.
 
